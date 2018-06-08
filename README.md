@@ -5,6 +5,6 @@ This is a python 3.x module replaces a word by another word in a file.
 
 
         Example
-            python3 main.py [--file_name='filename.extenstion'] [--old_word='old word'] [--new_word='new word']  p--replacement_count=[1,2,3....]]
+            python3 main.py [--file_name='filename.extenstion'] [--old_word='old word'] [--new_word='new word']  --replacement_count=[1,2,3....]]
 
             The [--replacement_count] argument is optional. When not provided, the word is changed througout the whole file
