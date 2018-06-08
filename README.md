@@ -1,6 +1,6 @@
 # letter_and_word_replacer_in_python.github.io
 
-This module replaces a word by another word in a file.
+This is a python 3.x module replaces a word by another word in a file.
     It works using cli.
 
 
